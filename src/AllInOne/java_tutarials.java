@@ -21,7 +21,9 @@ System.out.println("enter month");
 			System.out.println("Season : spring");
 			break;
 		case 6:
-		case 7:
+		case 7:System.out.println("Season : spring");
+		break;
+			
 		case 8:
 			System.out.println("Season : rainy");
 			break;
